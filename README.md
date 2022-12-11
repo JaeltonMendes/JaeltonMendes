@@ -1,4 +1,4 @@
-## Entusiasta em dados que adora as análises que impulsionam e transformam o negócio!
+## Data Analyst
 
 ### Stats
 

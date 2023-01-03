@@ -11,7 +11,7 @@
 
 <div align="center"> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jaelton Mendes-PowerBI" height="40" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/powerbi.svg">
+  <img align="center" alt="Jaelton Mendes-PowerBI" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/c14186b76b9518c97589b7307a9977bd80cee5f4/powerbi.svg">
   <img align="center" alt="Jaelton Mendes-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 ##

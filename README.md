@@ -9,6 +9,12 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JaeltonMendes&bg_color=0d1117&color=2f4f4f&line=2f4f4f&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center"> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Erick Nishimoto-PowerBI" height="40" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/powerbi.svg">
+  <img align="center" alt="Erick Nishimoto-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+##
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jaeltonmendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

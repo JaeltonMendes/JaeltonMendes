@@ -14,6 +14,7 @@
   <img align="center" alt="Jaelton Mendes-PowerBI" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/1a864e16947deff4cf9c51969e5fbe15cfdfb829/SVG/powerbi.svg">
   <img align="center" alt="Jaelton Mendes-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jaelton Mendes-SqlSever" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/7a83689c2145ad741bac34644bd9521c01aee44e/SVG/sql.png">
+  <img align="center" alt="Jaelton Mendes-Python" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/38bf65e54aaeaaf6474bf0e8081c1364fbea7b22/SVG/python.png">
 
 ##
 

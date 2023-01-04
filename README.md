@@ -20,6 +20,7 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jaeltonmendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://www.jaeltonmendes.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jaeltonmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center"> 
   

@@ -23,7 +23,5 @@
   <a href = "mailto:jaeltonmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center"> 
-  
-![Snake animation](https://github.com/JaeltonMendes/JaeltonMendes/blob/output/github-contribution-grid-snake.svg)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4f4f&height=120&section=footer"/>

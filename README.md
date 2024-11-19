@@ -23,5 +23,5 @@
 
 <div align="center"> 
   
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/b4ec9e79-74f6-453c-806a-28280ea22427)
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/21f26e32-551a-4077-a74b-83841febf06d)
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4f4f&height=120&section=footer"/>

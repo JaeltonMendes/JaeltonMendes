@@ -22,5 +22,6 @@
      <a href="https://www.jaeltonmendes.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 
 <div align="center"> 
-
+  
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/b4ec9e79-74f6-453c-806a-28280ea22427)
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4f4f&height=120&section=footer"/>

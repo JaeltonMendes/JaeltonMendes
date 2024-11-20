@@ -18,10 +18,6 @@
 ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/jaeltonmendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="https://www.jaeltonmendes.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
-
-<div align="center"> 
   
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/21f26e32-551a-4077-a74b-83841febf06d)
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4f4f&height=120&section=footer"/>

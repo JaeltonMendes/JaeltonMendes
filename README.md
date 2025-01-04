@@ -15,9 +15,4 @@
   <img align="center" alt="Jaelton Mendes-SqlSever" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/7a83689c2145ad741bac34644bd9521c01aee44e/SVG/sql.png">
   <img align="center" alt="Jaelton Mendes-Python" height="40" width="40" src="https://github.com/JaeltonMendes/JaeltonMendes/blob/38bf65e54aaeaaf6474bf0e8081c1364fbea7b22/SVG/python.png">
 
-##
-
-<div align="center"> 
-  
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/21f26e32-551a-4077-a74b-83841febf06d)
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f4f4f&height=120&section=footer"/>
